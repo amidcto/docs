@@ -35,28 +35,6 @@
       "url": "api-reference"
     }
   ],
-  "anchors": [
-    {
-      "name": "dApp (Coming Soon)",
-      "icon": "rocket",
-      "url": "https://google.com"
-    },
-    {
-      "name": "Telegram",
-      "icon": "telegram",
-      "url": "https://t.me/agentixportal"
-    },
-    {
-      "name": "X",
-      "icon": "twitter",
-      "url": "https://x.com/agentixai"
-    },
-    {
-      "name": "Medium",
-      "icon": "medium",
-      "url": "https://google.com"
-    }
-  ],
   "navigation": [
     {
       "group": "Get started",
@@ -76,6 +54,28 @@
         "essentials/getInvolved",
         "essentials/apiSdk"
       ]
+    }
+  ],
+    "anchors": [
+    {
+      "name": "dApp (Coming Soon)",
+      "icon": "rocket",
+      "url": "https://google.com"
+    },
+    {
+      "name": "Telegram",
+      "icon": "telegram",
+      "url": "https://t.me/agentixportal"
+    },
+    {
+      "name": "X",
+      "icon": "twitter",
+      "url": "https://x.com/agentixai"
+    },
+    {
+      "name": "Medium",
+      "icon": "medium",
+      "url": "https://google.com"
     }
   ],
   "footerSocials": {
