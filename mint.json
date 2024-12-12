@@ -52,9 +52,9 @@
     {
       "group": "Get Started",
       "pages": [
-        "Project Overview",
-        "idk what to put here",
-        "Social Links"
+        "introduction",
+        "quickstart",
+        "development"
       ]
     },
     {
