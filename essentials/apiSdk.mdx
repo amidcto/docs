@@ -1,0 +1,29 @@
+---
+title: "SDK & API"
+description: "Practical Guidance for Integrating and Utilizing Agentix Services"
+icon: "recycle"
+---
+
+<Warning>
+  This is **not** live yet!
+</Warning>
+
+Agentix will provide a developer toolkit aimed at making it straightforward to interact with agents programmatically. Whether you’re building a custom frontend for agent interactions, integrating automated workflows into an existing dApp, or experimenting with novel agent services, the SDK and API will offer clear, accessible methods for calling functions, passing data, and handling responses—all anchored in a decentralized environment.
+
+**Basic Example:**
+
+* **Goal:** Deploy a simple agent that monitors a given token pair on a DEX and triggers a notification when certain price conditions are met.
+
+* **Approach:** Use the Agentix SDK to register your agent, define parameters (e.g., token pair, threshold price), and specify the on-chain condition that prompts a callback. The agent’s logic runs trustlessly, and the SDK handles the details of interacting with smart contracts, verifying conditions, and relaying results.
+
+<Info>
+  With a few lines of code, developers will tie their agent’s logic into the on-chain world, enabling automated decision-making and event-driven tasks—no centralized backend required.
+</Info>
+
+**Advanced Example:**
+
+* **Goal:** Integrate multiple agents to form a data pipeline—one that fetches raw information from a DeFi protocol, another that refines and interprets that data, and a third that provides summarized insights via a user interface.
+
+* **Approach:** The API endpoints will allow secure data passing between agents, while the SDK simplifies orchestrating these interactions. Developers can chain requests, set up tokens for authorization, and ensure that every step follows on-chain rules, returning outputs that end-users can trust.
+
+In both scenarios, the emphasis is on reducing complexity while retaining decentralization. By offering well-documented methods, code samples, and a test environment, Agentix will help developers experiment confidently and bring their AI-driven ideas to life in a Web3 context.
