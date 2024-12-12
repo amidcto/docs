@@ -58,11 +58,6 @@
   ],
     "anchors": [
     {
-      "name": "dApp (Coming Soon)",
-      "icon": "rocket",
-      "url": "https://google.com"
-    },
-    {
       "name": "Telegram",
       "icon": "telegram",
       "url": "https://t.me/agentixportal"
