@@ -3,7 +3,8 @@
   "name": "Agentix - Documentation",
   "modeToggle": {
     "default": "dark",
-    "isHidden": true
+    "isHidden": true,
+    "respectPrefersColorScheme": false
   },
   "logo": {
     "dark": "/logo/dark.png",
