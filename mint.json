@@ -69,7 +69,7 @@
     {
       "group": "Essentials",
       "pages": [
-        "essentials/markdown",
+        "essentials/useCases",
         "essentials/code",
         "essentials/imagess",
         "essentials/settings",
