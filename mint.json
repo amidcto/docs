@@ -32,8 +32,16 @@
   },
   "tabs": [
     {
-      "name": "API Reference",
-      "url": "test"
+        "name": "API References",
+        "url": "api-references"
+    },
+    {
+        "name": "Content",
+        "url": "content"
+    },
+    {
+        "name": "Blog",
+        "url": "https://your-website.com/blog"
     }
   ],
   "navigation": [
