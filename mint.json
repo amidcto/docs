@@ -47,6 +47,11 @@
       "url": "https://t.me/agentixportal"
     },
     {
+      "name": "X",
+      "icon": "x",
+      "url": "https://x.com/agentixai"
+    },
+    {
       "name": "Medium",
       "icon": "medium",
       "url": "https://google.com"
