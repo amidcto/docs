@@ -35,17 +35,17 @@
     {
       "name": "dApp (Coming Soon)",
       "icon": "rocket",
-      "url": "google.com"
+      "url": "https://google.com"
     },
     {
       "name": "Telegram",
       "icon": "telegram",
-      "url": "t.me/agentixportal"
+      "url": "https://t.me/agentixportal"
     },
     {
       "name": "Medium",
       "icon": "medium",
-      "url": "google.come"
+      "url": "https://google.com"
     }
   ],
   "navigation": [
