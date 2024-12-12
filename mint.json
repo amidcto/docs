@@ -54,7 +54,7 @@
       "pages": [
         "introduction",
         "quickstart",
-        "development",
+        "development"
       ]
     },
     {
@@ -66,7 +66,7 @@
         "essentials/settings",
         "essentials/navigation",
         "essentials/reusable-snippets",
-        "essentials/TESTTST",
+        "essentials/TESTTST"
       ]
     }
   ],
