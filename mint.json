@@ -70,9 +70,9 @@
       "group": "Essentials",
       "pages": [
         "essentials/useCases",
-        "essentials/code",
-        "essentials/imagess",
-        "essentials/settings",
+        "essentials/token",
+        "essentials/tokenomics",
+        "essentials/roadmap",
         "essentials/navigation",
         "essentials/reusable-snippets",
         "essentials/TESTTST"
