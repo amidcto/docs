@@ -4,7 +4,7 @@
   "modeToggle": {
     "default": "dark",
     "isHidden": true
-  }
+  },
   "logo": {
     "dark": "/logo/dark.png",
     "light": "/logo/light.png"
