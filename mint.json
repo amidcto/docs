@@ -1,6 +1,10 @@
 {
   "$schema": "https://mintlify.com/schema.json",
   "name": "Agentix - Documentation",
+  "modeToggle": {
+    "default": "dark",
+    "isHidden": true
+  }
   "logo": {
     "dark": "/logo/dark.png",
     "light": "/logo/light.png"
@@ -75,8 +79,5 @@
     "github": "https://github.com/mintlify",
     "linkedin": "https://linkedin.com/company/mintlify"
   }
-  "modeToggle": {
-  "default": "dark",
-  "isHidden": true
-}
+
 }
