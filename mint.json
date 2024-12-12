@@ -48,7 +48,7 @@
     },
     {
       "name": "X",
-      "icon": "x",
+      "icon": "Twitter",
       "url": "https://x.com/agentixai"
     },
     {
@@ -62,7 +62,7 @@
       "group": "Agentix",
       "pages": [
         "ProjectOverview",
-        "quickstart",
+        "whatagentixwilldo",
         "development"
       ]
     },
