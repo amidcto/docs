@@ -23,7 +23,7 @@
   "topbarLinks": [
     {
       "name": "Contact Us",
-      "url": "t.me/lesagentix"
+      "url": "t.me/lesmindsphere"
     }
   ],
   "topbarCtaButton": {
@@ -69,12 +69,12 @@
     {
       "name": "Telegram",
       "icon": "telegram",
-      "url": "https://t.me/agentixportal"
+      "url": "https://t.me/MindSpherePortal"
     },
     {
       "name": "X",
       "icon": "twitter",
-      "url": "https://x.com/agentixai"
+      "url": "https://x.com/mindspherems"
     },
     {
       "name": "Medium",
