@@ -25,12 +25,9 @@ Each MCP may define:
 - Reasoning patterns (e.g., rule-based logic, causal inference, simulation loops)
 - State memory across sessions (optional, privacy-preserving)
 
-### \\
-
-MCP Integration Workflow
+### MCP Integration Workflow
 
 1. Define the Protocol Create a new MCP using a schema—specify context model, triggers, tool access, and fallback logic.
 2. Attach to Agent When deploying or updating an agent, register the MCP(s) it will use via the SDK.
 3. On-Chain Enforcement MCPs can be checkpointed and verified to ensure agents stick to defined behavioral constraints.
 4. Update or Swap Protocols Agents can switch MCPs in response to tasks or via governance-approved upgrades.
-5. 
