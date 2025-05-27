@@ -1,0 +1,35 @@
+---
+title: "Model Context Protocols (MCPs)"
+description: "Extending Agents Intelligence with Structured Context"
+---
+
+Model Context Protocols, or MCPs, are a powerful layer in the MindSphere ecosystem that allow agents to operate with greater intelligence, specificity, and autonomy. Rather than hard-coding every behavior or rule into an agent’s logic, MCPs offer a modular way to define context-aware behavior. These protocols act as structured templates, self-contained packages of logic, constraints, and tool permissions that an agent can load dynamically to expand its capabilities in a particular domain or use case.hhh
+
+By attaching an MCP to an agent, developers effectively inject a set of assumptions, knowledge models, and behavior constraints that guide how the agent operates. This could mean giving a DeFi monitoring agent access to price volatility models, oracle validation rules, and transaction frequency thresholds or equipping a DAO governance bot with sentiment scoring rules, proposal parsing strategies, and reputation filters. MCPs help agents “understand” their role, tools, and environment without needing to reprogram the agent from scratch.
+
+Each MCP defines its own context model, including what smart contracts the agent can access, what types of data it should consider reliable, how it should react to errors or out-of-scope requests, and even how long it should retain temporary memory. This lets agents be more adaptive, and it also provides guardrails to ensure that agent behavior stays aligned with user expectations, governance rules, and platform norms.
+
+### How MCPs work
+
+Agents load MCPs dynamically based on:
+
+- Their assigned task (e.g. DeFi analytics, DAO moderation)
+- User input or platform triggers
+- On-chain events or environmental data
+
+Each MCP may define:
+
+- Contextual constraints (e.g. legal, financial, social)
+- Tool access (which smart contracts, APIs, or sub-agents it can call)
+- Reasoning patterns (e.g., rule-based logic, causal inference, simulation loops)
+- State memory across sessions (optional, privacy-preserving)
+
+### \\
+
+MCP Integration Workflow
+
+1. Define the Protocol Create a new MCP using a schema—specify context model, triggers, tool access, and fallback logic.
+2. Attach to Agent When deploying or updating an agent, register the MCP(s) it will use via the SDK.
+3. On-Chain Enforcement MCPs can be checkpointed and verified to ensure agents stick to defined behavioral constraints.
+4. Update or Swap Protocols Agents can switch MCPs in response to tasks or via governance-approved upgrades.
+5. 
